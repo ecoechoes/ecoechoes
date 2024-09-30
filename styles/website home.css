@@ -1,0 +1,29 @@
+body {
+		background-image: url("Images/example bg3.png");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: top;
+}
+
+h1 {
+		font-size:70px; 
+		font-family: papyrus;
+		color: ghostwhite;
+		float: left; 
+		position: absolute; 
+		margin-left: 15%;
+}
+
+h2 {
+		font-size:55px; 
+		font-family: georgia;
+		color: ghostwhite; 
+		margin-left: 2%;
+}
+
+p {
+	font-family: georgia;
+	font-size: 17px;
+	word-spacing: 5px;
+}
+
